@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Tobias</h1>
-<h3 align="left">A passionate frontend developer</h3>
+<h3 align="left">A passionate software developer</h3>
 
 <h3 align="left">My skills:</h3>
 <p align="left"> 
