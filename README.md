@@ -19,7 +19,7 @@
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="img/django.svg" alt="django" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="img/python.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="img/sqlite.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="img/sqlite.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="img/postgresql.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="img/redis.svg" alt="redis" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="img/linux.svg" alt="linux" width="40" height="40"/></a>
